@@ -6,3 +6,4 @@ Generated using [lodash-cli](https://www.npmjs.com/package/lodash-cli):
 ```bash
 $ lodash modularize exports=npm -o ./
 ```
+Temporary edit
