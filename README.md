@@ -1,4 +1,4 @@
-# lodash v4.17.21 - maaz patch
+# lodash v4.17.21 - maaz patch 2
 
 [Site](https://lodash.com/) |
 [Docs](https://lodash.com/docs) |
